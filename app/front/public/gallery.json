@@ -389,6 +389,7 @@
 {"name":"London","url":"https://raw.githubusercontent.com/idleberg/Subway.tmTheme/master/London.tmTheme","light":true},
 {"name":"Lowlight","url":"https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/Lowlight.tmTheme","light":false},
 {"name":"Lucario","url":"https://raw.githubusercontent.com/raphamorim/lucario/master/Lucario.tmTheme","light":false},
+{"name":"Lunar Light","url":"https://raw.githubusercontent.com/keileygregory/lunar-light-color-theme_rstudio/main/lunar-light-color-theme.tmtheme","light":true},
 {"name":"Lyte Dark","url":"https://raw.githubusercontent.com/lytedev/lyte-theme/master/Lyte-Dark/Lyte-Dark.tmTheme","light":false},
 {"name":"Lyte Light","url":"https://raw.githubusercontent.com/lytedev/lyte-theme/master/Lyte-Light/Lyte-Light.tmTheme","light":true},
 {"name":"Lyte Monokai","url":"https://raw.githubusercontent.com/lytedev/lyte-theme/master/Lyte-Monokai/Lyte-Monokai.tmTheme","light":false},
